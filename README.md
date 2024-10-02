@@ -9,7 +9,7 @@ The results of this study were published in the following scientific paper:
 The BibTeX entries for this papers is provided below.
 
 ```
-@inproceedings{2024_nunes_eniac2024,
+@inproceedings{nunes_eniac2024,
 	author={Ricardo R. Nunes and Renato M. Silva},
 	title={Deep learning for segmentation and classification of rock grains in the aggregates industry},
 	booktitle={Proceedings of the 21st National Meeting on Artificial and Computational Intelligence (ENIAC'2024)}, 
