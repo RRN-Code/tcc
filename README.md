@@ -1,3 +1,5 @@
+# Deep learning for segmentation and classification of rock grains in the aggregates industry
+
 This repository contains the dataset and code used in the experiments that resulted in the following undergraduate thesis:
 
 - **Ricardo R. Nunes (2024)**. *Deep learning applied to the identification and classification of rock grains in the aggregates industry*. Undergraduate Thesis. Specialization in Data Science. Facens University, Sorocaba, São Paulo, Brazil.
@@ -6,7 +8,16 @@ The results of this study were published in the following scientific paper:
 
 - **Ricardo R. Nunes; Renato M. Silva (2024)**. *Deep learning for segmentation and classification of rock grains in the aggregates industry*. Proceedings of the 21st National Meeting on Artificial and Computational Intelligence (ENIAC'2024). Belém, Pará, Brazil: Brazilian Computer Society, pp. 1–12.
 
-The BibTeX entry for this paper is provided below.
+## Dataset
+
+The dataset used in this study is divided into the following folders:
+
+- [Training Data (Original Images)](./train/original_images)
+- [Validation Data (Images)](./validation/images)
+  
+## BibTeX Entry
+
+The BibTeX entry for the paper is provided below.
 
 ```
 @inproceedings{nunes_eniac2024,
@@ -20,4 +31,9 @@ The BibTeX entry for this paper is provided below.
 	pages={1--12}
 }
 ```
+
+
+
+
+
 
