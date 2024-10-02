@@ -12,8 +12,8 @@ The results of this study were published in the following scientific paper:
 
 The dataset used in this study is divided into the following folders:
 
-- [Training Data (Original Images)](./train/original_images)
-- [Validation Data (Images)](./validation/images)
+- [train/original_images](./train/original_images)
+- [validation/images](./validation/images)
   
 ## BibTeX Entry
 
