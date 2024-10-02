@@ -6,7 +6,7 @@ The results of this study were published in the following scientific paper:
 
 - **Ricardo R. Nunes; Renato M. Silva (2024)**. *Deep learning for segmentation and classification of rock grains in the aggregates industry*. Proceedings of the 21st National Meeting on Artificial and Computational Intelligence (ENIAC'2024). Belém, Pará, Brazil: Brazilian Computer Society, pp. 1–12.
 
-The BibTeX entries for this papers is provided below.
+The BibTeX entry for this paper is provided below.
 
 ```
 @inproceedings{nunes_eniac2024,
