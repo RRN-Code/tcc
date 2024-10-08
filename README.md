@@ -2,7 +2,7 @@
 
 This repository contains the dataset and code used in the experiments that resulted in the following undergraduate thesis:
 
-- **Ricardo R. Nunes (2024)**. *Deep learning applied to the identification and classification of rock grains in the aggregates industry*. Undergraduate Thesis. Specialization in Data Science. Facens University, Sorocaba, São Paulo, Brazil.
+- **Ricardo R. Nunes (2024)**. *Deep learning applied to the identification and classification of rock grains in the aggregates industry*. Undergraduate Thesis. Specialization in Data Science. Facens University, Sorocaba, São Paulo, Brazil. Advisor: Renato M. Silva.
 
 The results of this study were published in the following scientific paper:
 
